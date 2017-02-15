@@ -1,0 +1,17 @@
+p {
+	font-family: 'Dosis', sans-serif;
+	margin-left: 1.66%;
+	margin-bottom: 30px;
+	margin-top:30px;
+	font-size: 50px;
+	text-transform: uppercase;
+	border-bottom: 3px solid red;
+	width: 30%;
+	padding-bottom: 10px;
+}
+
+img {
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+}
